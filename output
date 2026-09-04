@@ -1,0 +1,33 @@
+Train images : (60000, 784)
+Train labels : (60000,)
+Test images  : (10000, 784)
+Test labels  : (10000,)
+
+
+Epoch  1 | Loss: 0.1158 | Test Accuracy: 96.11%
+Epoch  2 | Loss: 0.0715 | Test Accuracy: 97.09%
+Epoch  3 | Loss: 0.0425 | Test Accuracy: 97.73%
+Epoch  4 | Loss: 0.0329 | Test Accuracy: 97.82%
+Epoch  5 | Loss: 0.0264 | Test Accuracy: 97.99%
+Epoch  6 | Loss: 0.0230 | Test Accuracy: 98.07%
+Epoch  7 | Loss: 0.0180 | Test Accuracy: 97.91%
+Epoch  8 | Loss: 0.0122 | Test Accuracy: 98.19%
+Epoch  9 | Loss: 0.0078 | Test Accuracy: 98.22%
+Epoch 10 | Loss: 0.0054 | Test Accuracy: 98.32%
+Final Test Accuracy: 98.32%
+
+Model saved.
+
+First 10 predictions
+Image  0 | Predicted: 7 | Actual: 7
+Image  1 | Predicted: 2 | Actual: 2
+Image  2 | Predicted: 1 | Actual: 1
+Image  3 | Predicted: 0 | Actual: 0
+Image  4 | Predicted: 4 | Actual: 4
+Image  5 | Predicted: 1 | Actual: 1
+Image  6 | Predicted: 4 | Actual: 4
+Image  7 | Predicted: 9 | Actual: 9
+Image  8 | Predicted: 5 | Actual: 5
+Image  9 | Predicted: 9 | Actual: 9
+
+[Done] exited with code=0 in 28.618 seconds
